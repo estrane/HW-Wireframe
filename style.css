@@ -9,7 +9,10 @@ body {
 header, nav, footer {
     text-align: center;
     margin: 0 auto;
-    padding: 10px;
+    clear: both;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #777;
 }
 
 section {
